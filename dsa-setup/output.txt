@@ -1,0 +1,4 @@
+ Triplet list 0: [-1, 0, 1]
+ Triplet list 0: [-1, -1, 2]
+ Triplet list 1: [-1, 0, 1]
+[[-1, 0, 1], [-1, -1, 2]]
